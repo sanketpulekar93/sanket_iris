@@ -1,0 +1,14 @@
+{
+    "Species": {
+        "0": "Iris-setosa",
+        "1": "Iris-versicolor",
+        "2": "Iris-virginica"
+    },
+    "Column_names": [
+        "Id",
+        "SepalLengthCm",
+        "SepalWidthCm",
+        "PetalLengthCm",
+        "PetalWidthCm"
+    ]
+}
