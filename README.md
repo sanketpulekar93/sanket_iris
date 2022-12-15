@@ -1,1 +1,4 @@
-# sanket_iris
+# sanket_iris 
+
+*Iris-versicolor 
+*Iris-setosa 
