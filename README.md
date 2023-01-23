@@ -1,4 +1,3 @@
 # sanket_iris 
 
-*Iris-versicolor 
-*Iris-setosa 
+*Iris flower prediction 
